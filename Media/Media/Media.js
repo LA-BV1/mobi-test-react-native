@@ -1,4 +1,3 @@
-// import MediaModal from './media-modal/media-modal.jsx'
 import { StyleSheet, Text, View, ScrollView, Image } from 'react-native'
 import { getDataService } from '../services/data.service.js'
 import React from 'react'
