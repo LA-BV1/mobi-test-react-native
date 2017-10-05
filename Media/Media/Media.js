@@ -17,7 +17,6 @@ class Media extends  React.Component {
     })
   }
   render() {
-    // <img src={i.image_url} onClick={() => { this.handleGallery(i) }} />
     return (
       <View>
         <ScrollView>
